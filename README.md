@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-signup](screens/signup)
 - [camera]()
 - [privacy-policy]()
+- [terms-and-conditions]()
 
 # Getting started: Frontend
 
